@@ -1,1 +1,7 @@
-# stock-sentiment-project
+# 📈 Stock News Sentiment Analyzer
+This is an NLP-powered dashboard that scrapes financial news and analyzes market mood using Python and Streamlit.
+
+### How to see it:
+1. Visit the live link (Insert your Streamlit link here later!)
+2. Select a ticker like AAPL or TSLA.
+3. View the real-time sentiment breakdown and trends.
