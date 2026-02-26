@@ -1,0 +1,9 @@
+# requirements.txt
+streamlit
+pandas
+numpy
+requests
+beautifulsoup4
+nltk
+plotly
+textblob
